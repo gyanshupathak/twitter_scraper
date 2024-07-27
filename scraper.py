@@ -2,9 +2,9 @@ import asyncio
 import json
 from twikit import Client
 
-USERNAME = 'gyanshu_pathak'
-EMAIL = 'pathakgyanshu@gmail.com'
-PASSWORD = 'Password@54321'
+USERNAME = 'enter_username'
+EMAIL = 'enter_email'
+PASSWORD = 'enter_password'
 
 client = Client('en-US')
 
